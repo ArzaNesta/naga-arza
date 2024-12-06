@@ -730,8 +730,9 @@ img{
         width: 280px;
     }
 
-    .logo-image{
-        width: 80px;
+    .footer-branding{
+        display: none;
+    }
     }
 
     .footer-links{
